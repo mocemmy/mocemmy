@@ -1,4 +1,9 @@
 ### Hi there 👋
+### About me
+I am a full stack software developer with a background in mechanical engineering and data entry.
+While studying mechanical engineering, I took courses in C++, advanced calculus, and logic which sparked my interest in computer science. Although I didn't complete my degree, those courses and skills have stayed with me as I've worked to change the trajectory of my career towards full stack web development. As I've worked in data entry, I've developed my eye for detail as well as an appreciation for well designed software and efficient databases.
+
+In completing App Academy's full stack software development bootcamp, I've gained the hard skills to go along with my soft skills that have helped me build efficient and functional websites that I'm proud of.
 
 <!--
 **mocemmy/mocemmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
